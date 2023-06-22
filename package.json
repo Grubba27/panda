@@ -2,6 +2,7 @@
   "name": "panda",
   "private": true,
   "scripts": {
+    "watch": "panda watch",
     "prepare": "panda codegen",
     "start": "meteor run --exclude-archs web.browser.legacy,web.cordova",
     "test": "meteor test --once --driver-package meteortesting:mocha",
