@@ -32,3 +32,5 @@ this runs the following command:
 meteor run --exclude-archs web.browser.legacy,web.cordova
 
 ```
+
+Code is in `imports/ui/App.tsx`.
