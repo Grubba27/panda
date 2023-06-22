@@ -1,5 +1,5 @@
-import { mapObject } from '../helpers.mjs';
-import { css } from '../css/index.mjs';
+import { mapObject } from '../helpers.js';
+import { css } from '../css/index.js';
 
 const aspectRatioConfig = {
 transform(props, { map }) {
