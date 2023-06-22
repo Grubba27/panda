@@ -9,7 +9,7 @@ multi-variant support, and best-in-class developer experience.
 Have PandaCSS be running in your project by running the following command in your terminal:
 
 ```bash
-npm run prepare
+npm run watch
 ```
 
 or just:  
