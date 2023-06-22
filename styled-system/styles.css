@@ -1,0 +1,15 @@
+@layer reset, base, tokens, recipes, utilities;
+
+@import './global.css';
+
+@import './reset.css';
+
+@import './tokens/index.css';
+
+@import './tokens/keyframes.css';
+
+@layer utilities {
+  .bg_red\.400 {
+    background: var(--colors-red-400)
+    }
+}

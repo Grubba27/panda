@@ -1,0 +1,6 @@
+@layer utilities {
+
+  .bg_red\.400 {
+    background: var(--colors-red-400)
+    }
+}
